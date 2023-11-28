@@ -44,6 +44,9 @@ Percentage of matching words in bracket info and file: 25.00%
 
 Do you want to run the program again? (yes/no): no
 
+![image](https://github.com/gegex08/Tournament-Bracket/assets/16494040/368664b9-cc45-491e-b050-2de80a606839)
+
+
 Notes
 Ensure the teams' list in teams_list corresponds accurately to the teams selected in the bracket.
 Make sure to provide a teams.txt file for accurate word-matching analysis.
