@@ -120,7 +120,7 @@ def main():
         for round_info in tournament_bracket:
             print(round_info)
 
-        file_name = 'teams.txt'  # Replace with your file name
+        file_name = 'teams.txt' 
 
         try:
             with open(file_name, 'r') as file:
