@@ -27,7 +27,7 @@ Repeat Program: The program prompts if you want to rerun; respond with "yes" to 
 <img width="660" alt="image" src="https://github.com/gegex08/Tournament-Bracket/assets/16494040/12c81b74-4e13-4914-9b1f-cb21c910964b">
 
 <h2>Requirements</h2>
-Python 3
+Version of Python 3
 A text file named teams.txt with relevant words for comparison
 
 <h2>Files</h2>
