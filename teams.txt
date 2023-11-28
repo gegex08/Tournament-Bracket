@@ -1,0 +1,31 @@
+
+Tournament Bracket:
+
+
+Round 1: 
+ 1. Astros vs 9. Mariners
+ 2. Orioles vs 10. Tigers
+ 3. Dodgers vs 11. Athletics
+ 4. Phillies vs 12. Diamondbacks
+ 5. Twins  vs 13. Giants
+ 6. White Sox vs 14. Yankees
+ 7. Red Sox vs 15. Blue Jays
+ 8. Rangers vs 16. Cardinals
+               Results:
+You guessed the winner to be: Astros
+Round 2: 
+ 1. Astros vs 5. Twins 
+ 2. Orioles vs 6. White Sox
+ 3. Dodgers vs 7. Red Sox
+ 4. Phillies vs 8. Rangers
+               Results:
+You guessed the winner to be: Astros
+Round 3: 
+ 1. Astros vs 3. Dodgers
+ 2. Orioles vs 4. Phillies
+               Results:
+You guessed the winner to be: Astros
+Round 4: 
+ 1. Astros vs 2. Orioles
+               Results:
+You guessed the winner to be: Astros
