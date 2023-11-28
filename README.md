@@ -1,4 +1,4 @@
-Tournament Bracket Generator and Analyzer
+<h1>Tournament Bracket Generator and Analyze</h1>
 
 Description
 This Python program allows users to create and simulate a tournament bracket for a given set of teams. It prompts the user to select teams that advance through rounds and makes random selections for the simulated tournament. Additionally, it calculates the percentage of matching words between the tournament bracket information and a text file.
