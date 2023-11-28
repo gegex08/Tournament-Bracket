@@ -31,20 +31,11 @@ teams.txt: Text file for word comparison (to be placed in the same directory as 
 
 Example
 
-Welcome to the Tournament Bracket!
-List of Teams:
-1. Astros
-2. Orioles
-3. Dodgers
-...
-
-...
-
-Percentage of matching words in bracket info and file: 25.00%
-
-Do you want to run the program again? (yes/no): no
-
 ![image](https://github.com/gegex08/Tournament-Bracket/assets/16494040/368664b9-cc45-491e-b050-2de80a606839)
+
+Flow Chart
+
+![image](https://github.com/gegex08/Tournament-Bracket/assets/16494040/dc7b9ffe-f01c-46ff-a159-5e7dc9dcb73f)
 
 
 Notes
