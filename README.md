@@ -24,7 +24,8 @@ Repeat Program: The program prompts if you want to rerun; respond with "yes" to 
 
 <h2>Flow Chart</h2>
 
-<img width="660" alt="image" src="https://github.com/gegex08/Tournament-Bracket/assets/16494040/12c81b74-4e13-4914-9b1f-cb21c910964b">
+![image](https://github.com/gegex08/Tournament-Bracket/assets/16494040/6bf9cc5e-a856-4a76-ac89-cb7895b8efa7)
+
 
 <h2>Requirements</h2>
 Version of Python 3 and 
