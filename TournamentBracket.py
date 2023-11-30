@@ -86,7 +86,7 @@ def calculate_percentage_of_matching_words(round_info, file_content):
     file_words = file_content.split()
 
     # Calculate the number of matching words
-    matching_words = sum(1 for i in file_words)
+    matching_words = sum(1 for word in round_words if word in file_words)
 
     # Calculate the percentage of matching words
     percentage = (matching_words / len(round_words + file_words)) * 100
