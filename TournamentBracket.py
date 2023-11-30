@@ -66,7 +66,7 @@ def generate_bracket(teams, teams_list):
         # Will title the next round's results
         print()
         bracket.append(" " * 15 + "Results:")
-        bracket.append(f"You guessed the winner to be: Team {teams[0]} ({teams_list[teams[0] - 1]})")
+        print(f"You guessed the winner to be: Team {teams[0]} ({teams_list[teams[0] - 1]})")
 
         # Will make a fake real winner from the teams list
         teams = next_round_teams
